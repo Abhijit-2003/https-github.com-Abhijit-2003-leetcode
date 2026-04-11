@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0031-next-permutation) |
+| [0051-n-queens](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
