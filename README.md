@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0051-n-queens) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
