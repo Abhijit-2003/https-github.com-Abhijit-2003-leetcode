@@ -65,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
