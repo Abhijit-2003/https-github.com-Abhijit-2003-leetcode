@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0179-largest-number) |
 ## String Matching
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0179-largest-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
