@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0031-next-permutation) |
 | [0051-n-queens](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -97,5 +98,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0073-set-matrix-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
