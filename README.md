@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0179-largest-number) |
+| [0347-top-k-frequent-elements](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,10 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -125,4 +130,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0136-single-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
