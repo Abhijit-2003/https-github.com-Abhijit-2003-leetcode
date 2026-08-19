@@ -7,12 +7,6 @@ class Solution:
             else :
                 result[num] = 1
 
-        sorted_d = dict(sorted(result.items(), key=lambda item: item[1], reverse=True))
+        ans = (sorted(result, key=result.get, reverse=True))
 
-        ans = list()
-        
-
-        for num, freq in sorted_d.items() :
-            ans.append(num)
-            k-=1
-            if k <=0 : return ans
+        return ans[:k]
