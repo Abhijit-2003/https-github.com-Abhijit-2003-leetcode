@@ -13,7 +13,7 @@ class Solution:
             while i < len(s) and s[i] == " ":
                 i += 1
 
-            if len(temp) : stack.append(temp)
+            if len(temp) : stack.append(temp)                                                                                                   
 
         stack.reverse()
 
