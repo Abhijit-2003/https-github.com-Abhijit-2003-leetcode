@@ -18,3 +18,7 @@ class Solution:
         stack.reverse()
 
         return " ".join(stack)
+
+
+
+    
