@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -156,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Abhijit-2003/https-github.com-Abhijit-2003-leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
