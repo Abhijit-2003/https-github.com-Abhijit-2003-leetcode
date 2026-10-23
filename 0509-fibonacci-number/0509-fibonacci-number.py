@@ -1,10 +1,15 @@
 class Solution:
-    def helper(self, n) :
+    def helper(self, n, dp) :
         if n == 0 or n == 1 :
             return n
 
-        return self.helper(n-1) + self.helper(n-2)
+        if dp[n] != -1 :
+            return dp[n]
+
+        dp[n] =  self.helper(n-1, dp) + self.helper(n-2, dp)
+
+        return dp[n]
 
     def fib(self, n: int) -> int :
-        return self.helper(n)
-        
+        dp = [-1] * (n+1)
+        return self.helper(n, dp)
